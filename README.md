@@ -28,7 +28,7 @@ $ pip3 install requests==2.23.0
 python dSeq2pSeq.py
 ```
 * Select .fasta file or text file that contain nucleotide (DNA/RNA) sequence.
-* Output will be save as a text file in same location.
+* Output will be save as a text file in same location as input file.
 * Internet connection is requried.
 
 * [See Video](https://youtu.be/BqDA-7W0DyQ)
